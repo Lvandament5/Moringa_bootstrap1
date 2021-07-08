@@ -1,0 +1,15 @@
+
+body {
+    font-family: 'Lora', serif;
+    background-color:#F1B24A;
+    }
+    
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-variant:small-caps;
+    font-weight: bold;
+   }
+  
+   h1 {text-align: center;} 
